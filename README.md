@@ -11,7 +11,7 @@ see [scoop](https://github.com/lukesampson/scoop/wiki) first.
 ```ps1
 > Set-ExecutionPolicy RemoteSigned -scope CurrentUser 
 > iex (new-object net.webclient).downloadstring('https://get.scoop.sh')
-> scoop bucket add sgk-bucket https://github.com/82p/scoop-yubico-bucket.git
+> scoop bucket add yubico-tool https://github.com/82p/scoop-yubico-bucket.git
 ```
 
 ```ps1
