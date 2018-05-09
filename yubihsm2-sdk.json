@@ -16,7 +16,7 @@
     ],
     "checkver": {
         "url": "https://www.yubico.com/support/knowledge-base/categories/articles/yubihsm2-tools/",
-        "re": "https://www.yubico.com/wp-content/uploads/(?<date>\\d{4}/\\d{2})/yubihsm2-sdk-(?<version>\\d+?\\.\\d+?\\.\\d+?)-windows64.zip"
+        "re": "https://www\\.yubico\\.com/wp-content/uploads/(?<date>\\d{4}/\\d{2})/yubihsm2-sdk-(?<version>[\\d\\.]+)-windows64\\.zip"
     },
     "autoupdate": {
         "url": "https://www.yubico.com/wp-content/uploads/$matchDate/yubihsm2-sdk-$matchVersion-windows64.zip"
