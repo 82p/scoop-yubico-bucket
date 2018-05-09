@@ -1,15 +1,15 @@
 {
     "homepage": "https://www.yubico.com/support/knowledge-base/categories/articles/yubikey-personalization-tools/",
-    "version": "1.18.1",
+    "version": "1.19.0",
     "license": " Copyright (c) 2014-2016 Yubico AB",
     "architecture": {
         "64bit": {
-            "url": "https://developers.yubico.com/yubikey-personalization/Releases/ykpers-1.18.1-win64.zip",
-            "hash": "a5f54b80f2ac0815f2747943e521f7c8b8d0627cf311b2114b64a9c74c818322"
+            "url": "https://developers.yubico.com/yubikey-personalization/Releases/ykpers-1.19.0-win64.zip",
+            "hash": "921bc18cc9232453877f60f663e0645c45740c935f0dcddacd245b69791898d7"
         },
         "32bit": {
-            "url": "https://developers.yubico.com/yubikey-personalization/Releases/ykpers-1.18.1-win32.zip",
-            "hash": "a886c3b7f5581ce4a5a94de0af473e67d79a0958d82ec69500993e932d2ff136"
+            "url": "https://developers.yubico.com/yubikey-personalization/Releases/ykpers-1.19.0-win32.zip",
+            "hash": "921d8f7b46eae4f445187375b023452154455f1492f51da0a0a8126025218ddb"
         }
     },
     "bin": [
